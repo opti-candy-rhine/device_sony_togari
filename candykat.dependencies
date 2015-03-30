@@ -1,30 +1,30 @@
 [
   {
-    "repository": "CandyKat/device_sony_rhine-common",
+    "repository": "opti-candy-rhine/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "branch": "kk4.4",
     "remote": "github"
   },
   {
-    "repository": "SlimRoms/device_qcom_common",
+    "repository": "opti-candy-rhine/device_qcom_common",
     "target_path": "device/qcom/common",
     "branch": "kk4.4",
     "remote": "github"
   },
   {
-    "repository": "CandyKat/device_sony_common",
+    "repository": "opti-candy-rhine/device_sony_common",
     "target_path": "device/sony/common",
     "branch": "kk4.4",
     "remote": "github"
   },
   {
-    "repository": "CandyKat/device_sony_qcom-common",
+    "repository": "opti-candy-rhine/device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "branch": "kk4.4",
     "remote": "github"
   },
   {
-    "repository": "OmarEinea/kernel_sony_msm8974",
+    "repository": "opti-candy-rhine/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "branch": "GreatDevs",
     "remote": "github"
